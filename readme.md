@@ -82,54 +82,42 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 ## Projects
 
-1.	### [Knox Capture]()
+1.	### Knox Capture
 
 	<p>Developed a solution to scan damaged barcode on phone. Involved synthetic dataset generation and computer vision.</p>
 
-	[code]()
-
 	___
-    
-2.	### [SRIN-Satyapan]()
+        
+2.	### SRIN-Satyapan
 
 	<p>Anti-Cheat proctored exam solution. Complete Backend Server, Android App and Web Portal. Face Recognition based candidate login, malpractice detection using missing person, multiple person detection, other person detection, distraction detection.</p>
 
-	[code]()
-
 	___
-    
-3.	### [Face Recognition]()
+        
+3.	### Face Recognition
 
 	<p>Developed a solution for real-time multiple face recognition in live camera frames. Also developed desktop app for offline videos, and surveillance system.</p>
 
-	[code]()
-
 	___
-    
-4.	### [Distraction Detection]()
+        
+4.	### Distraction Detection
 
 	<p>Solution to detect whether person sitting in front of screen is paying attention or distracted. Based on facial expressions, eye movement, yawn detection, head pose and face detection.</p>
 
-	[code]()
-
 	___
-    
-5.	### [Car Crash Detection]()
+        
+5.	### Car Crash Detection
 
 	<p>Solution to detect occurence of car crash and send SOS. Used mobile sensor data and GPS and developed an algorithm using time series data analysis.</p>
 
-	[code]()
-
 	___
-    
-6.	### [Drop Detection]()
+        
+6.	### Drop Detection
 
 	<p>Phone drop detection, height estimation, collision surface classification, drop/catch verification.</p>
 
-	[code]()
-
 	___
-    
+        
 7.	### [PacMan AI](https://inst.eecs.berkeley.edu/~cs188/sp21/project1/)
 
 	<p>AI based intelligent agent to control pacman in different environments.              The pacman plays against the ghosts and tries to eat all food while staying safe from ghosts              and finishing in minimum time.             The pacman uses different methods like A* Search, Heuristics, Reinforcement Learning with different parameters. </p>
@@ -137,55 +125,55 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 	[code](https://github.com/stopslavery404/CS188-AI/tree/main/proj1-search-python3)
 
 	___
-    
-8.	### [Automatic Review Analyzer]()
+        
+8.	### Automatic Review Analyzer
 
 	<p>Sentiment Analysis for customer reviews. Using simple perceptron algorithm</p>
 
 	[code](https://github.com/stopslavery404/Machine-Learning/tree/main/Project1/sentiment_analysis)
 
 	___
-    
-9.	### [MNIST Digit Recognition]()
+        
+9.	### MNIST Digit Recognition
 
 	<p>Classification of digits using support vector machine and gradient descent.</p>
 
 	[code](https://github.com/stopslavery404/Machine-Learning/tree/main/Project2/mnist/part1)
 
 	___
-    
-10.	### [Overlapping Digit Recognition]()
+        
+10.	### Overlapping Digit Recognition
 
 	<p>Classification of overlapping digits which contain multiple digits in single image, where a digit is written over other digit, using Convolutional Neural Networks. </p>
 
 	[code](https://github.com/stopslavery404/Machine-Learning/tree/main/Project2/mnist/part2-twodigit)
 
 	___
-    
-11.	### [Collaborative Filtering via Gaussian Mixtures]()
+        
+11.	### Collaborative Filtering via Gaussian Mixtures
 
 	<p>Recommender system for Netflix using Gaussian Mixtures models and EM algorithm.          Ratings of few users for different movies are provided as input and ratings for movies for which         user has not rated is calculated. It achieves very nice accuracy.</p>
 
 	[code](https://github.com/stopslavery404/Machine-Learning/tree/main/project4/resources_netflix/netflix)
 
 	___
-    
-12.	### [Text game using Reinforcement Learning]()
+        
+12.	### Text game using Reinforcement Learning
 
 	<p>It is a game in which a robot is given task in a room and he learns to play it.             Implementations using Q learning, Q learning with approximations, using neural networks to reduce the exponential size Q Tables.</p>
 
 	[code](https://github.com/stopslavery404/Machine-Learning/tree/main/project5/rl)
 
 	___
-    
-13.	### [Maze Solver]()
+        
+13.	### Maze Solver
 
 	<p>Demonstration of complexity, speed, effectiveness of different search algorithms </p>
 
 	[code](https://github.com/stopslavery404/Artificial-Intelligence)
 
 	___
-    
+        
 14.	### [Degrees](https://cs50.harvard.edu/ai/2020/projects/0/degrees/)
 
 	<p>Calculation of minimum degree of separation between actors in holywood.             Separation is in terms of working together.</p>
@@ -193,7 +181,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 	[code](https://github.com/stopslavery404/Artificial-Intelligence/tree/main/degrees)
 
 	___
-    
+        
 15.	### [Tic-Tac-Toe AI](https://www.youtube.com/watch?v=tp9DjqV_KoU)
 
 	<p>MiniMax and Alpha-Beta pruning based undefeatable Intelligent to play against human.</p>
@@ -201,7 +189,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 	[code](https://github.com/stopslavery404/Artificial-Intelligence/tree/main/tictactoe)
 
 	___
-    
+        
 16.	### [Minesweeper AI](https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/)
 
 	<p>Knowledge based Intelligent agent to play Minesweeper which reasons using preposotional logic.</p>
@@ -209,7 +197,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 	[code](https://github.com/stopslavery404/Artificial-Intelligence/tree/main/minesweeper)
 
 	___
-    
+        
 17.	### [CSP solver for Crossword Puzzle](https://cs50.harvard.edu/ai/2020/projects/3/crossword/)
 
 	<p>Solves Crossword puzzles by modelling it into Constraint satisfaction problem and then using         backtracking search with different heuristics to improve performance</p>
@@ -217,7 +205,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 	[code](https://github.com/stopslavery404/Artificial-Intelligence/tree/main/crossword)
 
 	___
-    
+        
 18.	### [Pabilistic models for reasoning under uncertainity](https://cs50.harvard.edu/ai/2020/projects/2/)
 
 	<p>To demonstrate page ranking and gene inheritance, by sampeling and using bayes-net</p>
@@ -225,7 +213,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 	[code](https://github.com/stopslavery404/Artificial-Intelligence/tree/main/probabilistic%20models)
 
 	___
-    
+        
 19.	### [Shopping](https://cs50.harvard.edu/ai/2020/projects/4/shopping/)
 
 	<p>K Nearest Neighbour model to predict whether customer will make the purchase or not.</p>
@@ -233,7 +221,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 	[code](https://github.com/stopslavery404/Artificial-Intelligence/tree/main/shopping)
 
 	___
-    
+        
 20.	### [NIM](https://cs50.harvard.edu/ai/2020/projects/4/nim/)
 
 	<p>Playing NIM against human. Trained using reinforcement learning.</p>
@@ -241,7 +229,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 	[code](https://github.com/stopslavery404/Artificial-Intelligence/tree/main/nim)
 
 	___
-    
+        
 21.	### [Traffic Sign classification](https://cs50.harvard.edu/ai/2020/projects/5/traffic/)
 
 	<p>CNN model for 43 class classification of traffic sign boards</p>
@@ -249,31 +237,25 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 	[code](https://github.com/stopslavery404/Artificial-Intelligence/tree/main/traffic)
 
 	___
-    
+        
 22.	### [CS50 Wiki](https://mycs50wiki.herokuapp.com/)
 
 	<p>Mini version of WikiPedia with almost all features of wikipedia.          Built using django, html, jinja, css, saas.</p>
 
-	[code]()
-
 	___
-    
+        
 23.	### [HomePage](https://stopslavery404.herokuapp.com/)
 
 	<p>My Homepage which contails details about me like hobbies, interests, and many things more.          Built using flask, HTML, CSS, Javascript.         </p>
 
-	[code]()
-
 	___
-    
+        
 24.	### [CS50-Finance](https://mycs50finance.herokuapp.com/)
 
 	<p>A lite app to get quotes of stocks and to perform buy, sell stocks.          Technologies used: Flask, SQL, APIs, JSON, Heroku, GIT.         </p>
 
-	[code]()
-
 	___
-    
+        
 
 
 ---
