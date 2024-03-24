@@ -1,0 +1,19 @@
+[
+    {
+        "company": "Samsung R&D Institute India",
+        "location": "Noida, India",
+        "website": "https://research.samsung.com/sri-n",
+        "duration": "July 2022-Present",
+        "position": "R&D Engineer",
+        "description": "Worked with different AI problems, mostly with computer vision and sensor data. Dveloped end to end solutions, include complete android app, web server and on Device AI."
+    },
+    {
+        "company": "Samsung R&D Institute India",
+        "location": "Noida, India",
+        "website": "https://research.samsung.com/sri-n",
+        "duration": "Jan 2022-June 2022",
+        "position": "Intern",
+        "description": "Worked with Android Studio, learnt generative AI using Cycle GAN, training for SWC."
+    }
+    
+]

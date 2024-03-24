@@ -1,0 +1,50 @@
+[
+    {
+        "method": "Phone",
+        "disp": "+91-8709253658",
+        "url": "tel:+91-8709253658",
+        "icon": "fa fa-phone"
+    },
+    {
+        "method": "Mail",
+        "disp": "pctablet505@gmail.com",
+        "url": "mailto:pctablet505@gmail.com",
+        "icon": "fa fa-envelope"
+    },
+    {
+        "method": "LinkedIn",
+        "disp": "@stopslavery404",
+        "url": "https://www.linkedin.com/in/stopslavery404",
+        "icon": "fab fa-linkedin"
+    },
+    {
+        "method": "Website",
+        "disp": "https://github.com/stopslavery404/portfolio",
+        "url": "https://github.com/stopslavery404/portfolio",
+        "icon": "fa fa-home"
+    },
+    {
+        "method": "Hackerrank",
+        "disp": "@stopslavery404",
+        "url": "https://www.hackerrank.com/stopslavery404",
+        "icon": "fab fa-hackerrank"
+    },
+    {
+        "method": "GitHub",
+        "disp": "@stopslavery404",
+        "url": "https://www.github.com/stopslavery404",
+        "icon": "fa fa-github"
+    },
+    {
+        "method": "Instagram",
+        "disp": "@hello._world_.me",
+        "url": "https://www.instagram.com/hello._world_.me",
+        "icon": "fa fa-instagram"
+    },
+    {
+        "method": "Youtube",
+        "disp": "YouTube",
+        "url": "https://www.youtube.com/channel/UCnRPtPB_CXs1ngGlwKqP-yw",
+        "icon": "fa fa-youtube"
+    }
+]
