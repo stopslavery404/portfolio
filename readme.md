@@ -1,8 +1,5 @@
-# Rahul Kumar
+# RAHUL KUMAR
 
-[LinkedIn](https://www.linkedin.com/in/stopslavery404) | [GitHub](https://github.com/stopslavery404) | [Portfolio](https://github.com/stopslavery404/portfolio/blob/main/README.md)
-
----
 ## Summary
 
 Fullstack AI Engineer with about 2.5 years professional experience and over 4 years of academic experience in the field of artificial intelligence. Major works in computer vision and sensor timeseries data. Excellence in statistical and mathematical understanding of underlying concepts and problems in AI.
@@ -20,6 +17,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	🗺 Noida, India
 
+	---
     
 - ### [Samsung R&D Institute India](https://research.samsung.com/sri-n)
 	**Intern**
@@ -30,6 +28,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	🗺 Noida, India
 
+	---
     
 
 
@@ -43,6 +42,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	📅 2021-23
 
+	---
     
 - ### [BIT Sindri](https://www.bitsindri.ac.in/)
 
@@ -50,6 +50,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	📅 2018-22
 
+	---
     
 - ### [Guru Gobind Singh Public School](https://www.ggpsbokaro.org/)
 
@@ -57,6 +58,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	📅 2015-17
 
+	---
     
 - ### [ARS Public School](http://www.arspublicschool.com/)
 
@@ -64,6 +66,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	📅 2008-15
 
+	---
     
 - ### [Sharswati Sishu Vidya Mandir]()
 
@@ -71,6 +74,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	📅 2005-08
 
+	---
     
 
 
@@ -84,7 +88,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code](https://github.com/stopslavery404/CS188-AI/tree/main/proj1-search-python3)
 
-
+	___
     
 2.	### [Automatic Review Analyzer]()
 
@@ -92,7 +96,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code](https://github.com/stopslavery404/Machine-Learning/tree/main/Project1/sentiment_analysis)
 
-
+	___
     
 3.	### [MNIST Digit Recognition]()
 
@@ -100,7 +104,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code](https://github.com/stopslavery404/Machine-Learning/tree/main/Project2/mnist/part1)
 
-
+	___
     
 4.	### [Overlapping Digit Recognition]()
 
@@ -108,7 +112,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code](https://github.com/stopslavery404/Machine-Learning/tree/main/Project2/mnist/part2-twodigit)
 
-
+	___
     
 5.	### [Collaborative Filtering via Gaussian Mixtures]()
 
@@ -116,7 +120,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code](https://github.com/stopslavery404/Machine-Learning/tree/main/project4/resources_netflix/netflix)
 
-
+	___
     
 6.	### [Text game using Reinforcement Learning]()
 
@@ -124,7 +128,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code](https://github.com/stopslavery404/Machine-Learning/tree/main/project5/rl)
 
-
+	___
     
 7.	### [Maze Solver]()
 
@@ -132,7 +136,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code](https://github.com/stopslavery404/Artificial-Intelligence)
 
-
+	___
     
 8.	### [Degrees](https://cs50.harvard.edu/ai/2020/projects/0/degrees/)
 
@@ -140,7 +144,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code](https://github.com/stopslavery404/Artificial-Intelligence/tree/main/degrees)
 
-
+	___
     
 9.	### [Tic-Tac-Toe AI](https://www.youtube.com/watch?v=tp9DjqV_KoU)
 
@@ -148,7 +152,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code](https://github.com/stopslavery404/Artificial-Intelligence/tree/main/tictactoe)
 
-
+	___
     
 10.	### [Minesweeper AI](https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/)
 
@@ -156,7 +160,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code](https://github.com/stopslavery404/Artificial-Intelligence/tree/main/minesweeper)
 
-
+	___
     
 11.	### [CSP solver for Crossword Puzzle](https://cs50.harvard.edu/ai/2020/projects/3/crossword/)
 
@@ -164,7 +168,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code](https://github.com/stopslavery404/Artificial-Intelligence/tree/main/crossword)
 
-
+	___
     
 12.	### [Pabilistic models for reasoning under uncertainity](https://cs50.harvard.edu/ai/2020/projects/2/)
 
@@ -172,7 +176,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code](https://github.com/stopslavery404/Artificial-Intelligence/tree/main/probabilistic%20models)
 
-
+	___
     
 13.	### [Shopping](https://cs50.harvard.edu/ai/2020/projects/4/shopping/)
 
@@ -180,7 +184,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code](https://github.com/stopslavery404/Artificial-Intelligence/tree/main/shopping)
 
-
+	___
     
 14.	### [NIM](https://cs50.harvard.edu/ai/2020/projects/4/nim/)
 
@@ -188,7 +192,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code](https://github.com/stopslavery404/Artificial-Intelligence/tree/main/nim)
 
-
+	___
     
 15.	### [Traffic Sign classification](https://cs50.harvard.edu/ai/2020/projects/5/traffic/)
 
@@ -196,7 +200,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code](https://github.com/stopslavery404/Artificial-Intelligence/tree/main/traffic)
 
-
+	___
     
 16.	### [CS50 Wiki](https://mycs50wiki.herokuapp.com/)
 
@@ -204,7 +208,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code]()
 
-
+	___
     
 17.	### [HomePage](https://stopslavery404.herokuapp.com/)
 
@@ -212,7 +216,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code]()
 
-
+	___
     
 18.	### [CS50-Finance](https://mycs50finance.herokuapp.com/)
 
@@ -220,7 +224,7 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 
 	[code]()
 
-
+	___
     
 
 
