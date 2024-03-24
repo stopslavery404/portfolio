@@ -1,36 +1,56 @@
+# Rahul Kumar
+
+[LinkedIn](https://www.linkedin.com/in/stopslavery404) | [GitHub](https://github.com/stopslavery404) | [Portfolio](https://github.com/stopslavery404/portfolio/blob/main/README.md)
+
+---
+
+## Summary
+Fullstack AI Engineer with about 2.5 years professional experience and over 4 years of academic experience in the field of artificial intelligence. Major works in computer vision and sensor timeseries data. Excellence in statistical and mathematical understanding of underlying concepts and problems in AI.
+
+---
+
+## Education
+
 ### [MITx](https://micromasters.mit.edu/)
 
-[MicroMasters in Statistics and Data Science](https://micromasters.mit.edu/ds/)
+**[MicroMasters in Statistics and Data Science](https://micromasters.mit.edu/ds/)**
 
-2021-22
+📅 2021-23
 
     
 ### [BIT Sindri](https://www.bitsindri.ac.in/)
 
-[B.Tech Computer Science](https://www.bitsindri.ac.in/index.php/departments/computer-science-engineering)
+**[B.Tech Computer Science](https://www.bitsindri.ac.in/index.php/departments/computer-science-engineering)**
 
-2018-22
+📅 2018-22
 
     
 ### [Guru Gobind Singh Public School](https://www.ggpsbokaro.org/)
 
-[Higher Secondary Education]()
+**[Higher Secondary Education]()**
 
-2015-17
+📅 2015-17
 
     
 ### [ARS Public School](http://www.arspublicschool.com/)
 
-[High School]()
+**[High School]()**
 
-2008-15
+📅 2008-15
 
     
 ### [Sharswati Sishu Vidya Mandir]()
 
-[Elementary School]()
+**[Elementary School]()**
 
-2005-08
+📅 2005-08
+
+    
+
+
+
+    
+
 ---
 
 
