@@ -27,7 +27,7 @@ with open(os.path.join(homedir, 'data/experience.json')) as f:
     experience = json.load(f)
 experience_str = ''
 for e in experience:
-    x = """- ### [{}]({})\n\t**{}**\n\n\t{}\n\n\t📅 {}\n\n\t🗺 {}\n
+    x = """- ### [{}]({})\n\t**{}**\n\n\t{}\n\n\t📅 {}\n\n\t🗺 {}\n\n\t---
     """.format(e['company'],
                e['website'],
                e['position'],
@@ -43,7 +43,7 @@ with open(os.path.join(homedir, 'data/education.json')) as f:
 education_str = ''
 
 for e in education:
-    x = """- ### [{}]({})\n\n\t**[{}]({})**\n\n\t📅 {}\n
+    x = """- ### [{}]({})\n\n\t**[{}]({})**\n\n\t📅 {}\n\n\t---
     """.format(e['school'],
                e['website_school'],
                e['degree'],
@@ -58,12 +58,33 @@ with open(os.path.join(homedir, 'data/projects_list.json')) as f:
 project_str = ''
 
 for i, e in enumerate(projects):
-    x = """{}.\t### [{}]({})\n\n\t<p>{}</p>\n\n\t[code]({})\n\n
-    """.format(i+1,
-               e['title'],
-               e['demonstration'],
-               get_paragraph(e['description']),
-               e['code'])
+    x=''
+    if e['demonstration']!='' and e['code'] !='':
+        x = """{}.\t### [{}]({})\n\n\t<p>{}</p>\n\n\t[code]({})\n\n\t___
+        """.format(i+1,
+                   e['title'],
+                   e['demonstration'],
+                   get_paragraph(e['description']),
+                   e['code'])
+    elif e['demonstration']!='':
+        x = """{}.\t### [{}]({})\n\n\t<p>{}</p>\n\n\t___
+        """.format(i+1,
+                   e['title'],
+                   e['demonstration'],
+                   get_paragraph(e['description']),
+                   )
+    elif e['code']!='':
+        x = """{}.\t### {}\n\n\t<p>{}</p>\n\n\t[code]({})\n\n\t___
+        """.format(i+1,
+                   e['title'],
+                   get_paragraph(e['description']),
+                   e['code'])
+    else:
+        x = """{}.\t### {}\n\n\t<p>{}</p>\n\n\t___
+        """.format(i+1,
+                   e['title'],
+                   get_paragraph(e['description'])
+                   )
     project_str += x+'\n'
 # print(project_str)
 
@@ -117,6 +138,8 @@ for e in certificates:
 
 
 def generate_markdown():
+    print('# RAHUL KUMAR')
+    print()
     print('## Summary')
     print()
     print(summary_str)

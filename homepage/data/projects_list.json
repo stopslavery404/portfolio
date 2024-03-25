@@ -1,1 +1,146 @@
-[{"title": "PacMan AI", "description": "AI based intelligent agent to control pacman in different environments.\n\n            The pacman plays against the ghosts and tries to eat all food while staying safe from ghosts\n\n            and finishing in minimum time.\n            The pacman uses different methods like A* Search, Heuristics, Reinforcement Learning with different parameters. ", "demonstration": "https://inst.eecs.berkeley.edu/~cs188/sp21/project1/", "code": "https://github.com/stopslavery404/CS188-AI/tree/main/proj1-search-python3"}, {"title": "Automatic Review Analyzer", "description": "Sentiment Analysis for customer reviews. Using simple perceptron algorithm", "demonstration": "", "code": "https://github.com/stopslavery404/Machine-Learning/tree/main/Project1/sentiment_analysis"}, {"title": "MNIST Digit Recognition", "description": "Classification of digits using support vector machine and gradient descent.", "demonstration": "", "code": "https://github.com/stopslavery404/Machine-Learning/tree/main/Project2/mnist/part1"}, {"title": "Overlapping Digit Recognition", "description": "Classification of overlapping digits which contain multiple digits in single image, where a digit is written over other digit, using Convolutional Neural Networks. ", "demonstration": "", "code": "https://github.com/stopslavery404/Machine-Learning/tree/main/Project2/mnist/part2-twodigit"}, {"title": "Collaborative Filtering via Gaussian Mixtures", "description": "Recommender system for Netflix using Gaussian Mixtures models and EM algorithm.\n\n        Ratings of few users for different movies are provided as input and ratings for movies for which\n        user has not rated is calculated. It achieves very nice accuracy.", "demonstration": "", "code": "https://github.com/stopslavery404/Machine-Learning/tree/main/project4/resources_netflix/netflix"}, {"title": "Text game using Reinforcement Learning", "description": "It is a game in which a robot is given task in a room and he learns to play it.\n            Implementations using Q learning, Q learning with approximations, using neural networks to reduce the exponential size Q Tables.", "demonstration": "", "code": "https://github.com/stopslavery404/Machine-Learning/tree/main/project5/rl"}, {"title": "Maze Solver", "description": "Demonstration of complexity, speed, effectiveness of different search algorithms ", "demonstration": "", "code": "https://github.com/stopslavery404/Artificial-Intelligence"}, {"title": "Degrees", "description": "Calculation of minimum degree of separation between actors in holywood.\n            Separation is in terms of working together.", "demonstration": "https://cs50.harvard.edu/ai/2020/projects/0/degrees/", "code": "https://github.com/stopslavery404/Artificial-Intelligence/tree/main/degrees"}, {"title": "Tic-Tac-Toe AI", "description": "MiniMax and Alpha-Beta pruning based undefeatable Intelligent to play against human.", "demonstration": "https://www.youtube.com/watch?v=tp9DjqV_KoU", "code": "https://github.com/stopslavery404/Artificial-Intelligence/tree/main/tictactoe"}, {"title": "Minesweeper AI", "description": "Knowledge based Intelligent agent to play Minesweeper which reasons using preposotional logic.", "demonstration": "https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/", "code": "https://github.com/stopslavery404/Artificial-Intelligence/tree/main/minesweeper"}, {"title": "CSP solver for Crossword Puzzle", "description": "Solves Crossword puzzles by modelling it into Constraint satisfaction problem and then using\n        backtracking search with different heuristics to improve performance", "demonstration": "https://cs50.harvard.edu/ai/2020/projects/3/crossword/", "code": "https://github.com/stopslavery404/Artificial-Intelligence/tree/main/crossword"}, {"title": "Pabilistic models for reasoning under uncertainity", "description": "To demonstrate page ranking and gene inheritance, by sampeling and using bayes-net", "demonstration": "https://cs50.harvard.edu/ai/2020/projects/2/", "code": "https://github.com/stopslavery404/Artificial-Intelligence/tree/main/probabilistic%20models"}, {"title": "Shopping", "description": "K Nearest Neighbour model to predict whether customer will make the purchase or not.", "demonstration": "https://cs50.harvard.edu/ai/2020/projects/4/shopping/", "code": "https://github.com/stopslavery404/Artificial-Intelligence/tree/main/shopping"}, {"title": "NIM", "description": "Playing NIM against human. Trained using reinforcement learning.", "demonstration": "https://cs50.harvard.edu/ai/2020/projects/4/nim/", "code": "https://github.com/stopslavery404/Artificial-Intelligence/tree/main/nim"}, {"title": "Traffic Sign classification", "description": "CNN model for 43 class classification of traffic sign boards", "demonstration": "https://cs50.harvard.edu/ai/2020/projects/5/traffic/", "code": "https://github.com/stopslavery404/Artificial-Intelligence/tree/main/traffic"}, {"title": "CS50 Wiki", "description": "Mini version of WikiPedia with almost all features of wikipedia.\n\n        Built using django, html, jinja, css, saas.", "demonstration": "https://mycs50wiki.herokuapp.com/", "code": ""}, {"title": "HomePage", "description": "My Homepage which contails details about me like hobbies, interests, and many things more.\n\n        Built using flask, HTML, CSS, Javascript.\n        ", "demonstration": "https://stopslavery404.herokuapp.com/", "code": ""}, {"title": "CS50-Finance", "description": "A lite app to get quotes of stocks and to perform buy, sell stocks.\n\n        Technologies used: Flask, SQL, APIs, JSON, Heroku, GIT.\n        ", "demonstration": "https://mycs50finance.herokuapp.com/", "code": ""}]
+[
+    {
+        "title": "Knox Capture",
+        "description": "Developed a solution to scan damaged barcode on phone. Involved synthetic dataset generation and computer vision.",
+        "demonstration": "",
+        "code": ""
+    },
+    {
+        "title": "SRIN-Satyapan",
+        "description": "Anti-Cheat proctored exam solution. Complete Backend Server, Android App and Web Portal. Face Recognition based candidate login, malpractice detection using missing person, multiple person detection, other person detection, distraction detection.",
+        "demonstration": "",
+        "code": ""
+    },
+    {
+        "title": "Face Recognition",
+        "description": "Developed a solution for real-time multiple face recognition in live camera frames. Also developed desktop app for offline videos, and surveillance system.",
+        "demonstration": "",
+        "code": ""
+    },
+    {
+        "title": "Distraction Detection",
+        "description": "Solution to detect whether person sitting in front of screen is paying attention or distracted. Based on facial expressions, eye movement, yawn detection, head pose and face detection.",
+        "demonstration": "",
+        "code": ""
+    },
+    {
+        "title": "Car Crash Detection",
+        "description": "Solution to detect occurence of car crash and send SOS. Used mobile sensor data and GPS and developed an algorithm using time series data analysis.",
+        "demonstration": "",
+        "code": ""
+    },
+    {
+        "title": "Drop Detection",
+        "description": "Phone drop detection, height estimation, collision surface classification, drop/catch verification.",
+        "demonstration": "",
+        "code": ""
+    },
+    {
+        "title": "PacMan AI",
+        "description": "AI based intelligent agent to control pacman in different environments.\n\n            The pacman plays against the ghosts and tries to eat all food while staying safe from ghosts\n\n            and finishing in minimum time.\n            The pacman uses different methods like A* Search, Heuristics, Reinforcement Learning with different parameters. ",
+        "demonstration": "https://inst.eecs.berkeley.edu/~cs188/sp21/project1/",
+        "code": "https://github.com/stopslavery404/CS188-AI/tree/main/proj1-search-python3"
+    },
+    {
+        "title": "Automatic Review Analyzer",
+        "description": "Sentiment Analysis for customer reviews. Using simple perceptron algorithm",
+        "demonstration": "",
+        "code": "https://github.com/stopslavery404/Machine-Learning/tree/main/Project1/sentiment_analysis"
+    },
+    {
+        "title": "MNIST Digit Recognition",
+        "description": "Classification of digits using support vector machine and gradient descent.",
+        "demonstration": "",
+        "code": "https://github.com/stopslavery404/Machine-Learning/tree/main/Project2/mnist/part1"
+    },
+    {
+        "title": "Overlapping Digit Recognition",
+        "description": "Classification of overlapping digits which contain multiple digits in single image, where a digit is written over other digit, using Convolutional Neural Networks. ",
+        "demonstration": "",
+        "code": "https://github.com/stopslavery404/Machine-Learning/tree/main/Project2/mnist/part2-twodigit"
+    },
+    {
+        "title": "Collaborative Filtering via Gaussian Mixtures",
+        "description": "Recommender system for Netflix using Gaussian Mixtures models and EM algorithm.\n\n        Ratings of few users for different movies are provided as input and ratings for movies for which\n        user has not rated is calculated. It achieves very nice accuracy.",
+        "demonstration": "",
+        "code": "https://github.com/stopslavery404/Machine-Learning/tree/main/project4/resources_netflix/netflix"
+    },
+    {
+        "title": "Text game using Reinforcement Learning",
+        "description": "It is a game in which a robot is given task in a room and he learns to play it.\n            Implementations using Q learning, Q learning with approximations, using neural networks to reduce the exponential size Q Tables.",
+        "demonstration": "",
+        "code": "https://github.com/stopslavery404/Machine-Learning/tree/main/project5/rl"
+    },
+    {
+        "title": "Maze Solver",
+        "description": "Demonstration of complexity, speed, effectiveness of different search algorithms ",
+        "demonstration": "",
+        "code": "https://github.com/stopslavery404/Artificial-Intelligence"
+    },
+    {
+        "title": "Degrees",
+        "description": "Calculation of minimum degree of separation between actors in holywood.\n            Separation is in terms of working together.",
+        "demonstration": "https://cs50.harvard.edu/ai/2020/projects/0/degrees/",
+        "code": "https://github.com/stopslavery404/Artificial-Intelligence/tree/main/degrees"
+    },
+    {
+        "title": "Tic-Tac-Toe AI",
+        "description": "MiniMax and Alpha-Beta pruning based undefeatable Intelligent to play against human.",
+        "demonstration": "https://www.youtube.com/watch?v=tp9DjqV_KoU",
+        "code": "https://github.com/stopslavery404/Artificial-Intelligence/tree/main/tictactoe"
+    },
+    {
+        "title": "Minesweeper AI",
+        "description": "Knowledge based Intelligent agent to play Minesweeper which reasons using preposotional logic.",
+        "demonstration": "https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/",
+        "code": "https://github.com/stopslavery404/Artificial-Intelligence/tree/main/minesweeper"
+    },
+    {
+        "title": "CSP solver for Crossword Puzzle",
+        "description": "Solves Crossword puzzles by modelling it into Constraint satisfaction problem and then using\n        backtracking search with different heuristics to improve performance",
+        "demonstration": "https://cs50.harvard.edu/ai/2020/projects/3/crossword/",
+        "code": "https://github.com/stopslavery404/Artificial-Intelligence/tree/main/crossword"
+    },
+    {
+        "title": "Pabilistic models for reasoning under uncertainity",
+        "description": "To demonstrate page ranking and gene inheritance, by sampeling and using bayes-net",
+        "demonstration": "https://cs50.harvard.edu/ai/2020/projects/2/",
+        "code": "https://github.com/stopslavery404/Artificial-Intelligence/tree/main/probabilistic%20models"
+    },
+    {
+        "title": "Shopping",
+        "description": "K Nearest Neighbour model to predict whether customer will make the purchase or not.",
+        "demonstration": "https://cs50.harvard.edu/ai/2020/projects/4/shopping/",
+        "code": "https://github.com/stopslavery404/Artificial-Intelligence/tree/main/shopping"
+    },
+    {
+        "title": "NIM",
+        "description": "Playing NIM against human. Trained using reinforcement learning.",
+        "demonstration": "https://cs50.harvard.edu/ai/2020/projects/4/nim/",
+        "code": "https://github.com/stopslavery404/Artificial-Intelligence/tree/main/nim"
+    },
+    {
+        "title": "Traffic Sign classification",
+        "description": "CNN model for 43 class classification of traffic sign boards",
+        "demonstration": "https://cs50.harvard.edu/ai/2020/projects/5/traffic/",
+        "code": "https://github.com/stopslavery404/Artificial-Intelligence/tree/main/traffic"
+    },
+    {
+        "title": "CS50 Wiki",
+        "description": "Mini version of WikiPedia with almost all features of wikipedia.\n\n        Built using django, html, jinja, css, saas.",
+        "demonstration": "https://mycs50wiki.herokuapp.com/",
+        "code": ""
+    },
+    {
+        "title": "HomePage",
+        "description": "My Homepage which contails details about me like hobbies, interests, and many things more.\n\n        Built using flask, HTML, CSS, Javascript.\n        ",
+        "demonstration": "https://stopslavery404.herokuapp.com/",
+        "code": ""
+    },
+    {
+        "title": "CS50-Finance",
+        "description": "A lite app to get quotes of stocks and to perform buy, sell stocks.\n\n        Technologies used: Flask, SQL, APIs, JSON, Heroku, GIT.\n        ",
+        "demonstration": "https://mycs50finance.herokuapp.com/",
+        "code": ""
+    }
+]
