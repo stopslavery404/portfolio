@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
-"""
+'''
 Created on Sun Mar 24 13:23:22 2024
 
 @author: pctab
-"""
+'''
 
 import json
 import os
+import sys
 homedir = r'C:/Users/pctab/Dropbox/Projects/Homepage/homepage/'
 
 
@@ -27,13 +28,13 @@ with open(os.path.join(homedir, 'data/experience.json')) as f:
     experience = json.load(f)
 experience_str = ''
 for e in experience:
-    x = """- ### [{}]({})\n\t**{}**\n\n\t{}\n\n\t📅 {}\n\n\t🗺 {}\n\n\t---
-    """.format(e['company'],
-               e['website'],
-               e['position'],
-               e['description'],
-               e['duration'],
-               e['location'],)
+    x = '''- ### [{}]({})\n\t**{}**\n\n\t{}\n\n\t📅 {}\n\n\t🗺 {}\n\n\t---'''.format(
+        e['company'],
+        e['website'],
+        e['position'],
+        e['description'],
+        e['duration'],
+        e['location'],)
     experience_str += x+'\n'
 # print(experience_str)
 
@@ -43,12 +44,12 @@ with open(os.path.join(homedir, 'data/education.json')) as f:
 education_str = ''
 
 for e in education:
-    x = """- ### [{}]({})\n\n\t**[{}]({})**\n\n\t📅 {}\n\n\t---
-    """.format(e['school'],
-               e['website_school'],
-               e['degree'],
-               e['website_degree'],
-               e['duration'],)
+    x = '''- ### [{}]({})\n\n\t**[{}]({})**\n\n\t📅 {}\n\n\t---'''.format(
+        e['school'],
+        e['website_school'],
+        e['degree'],
+        e['website_degree'],
+        e['duration'],)
     education_str += x+'\n'
 # print(education_str)
 
@@ -58,33 +59,37 @@ with open(os.path.join(homedir, 'data/projects_list.json')) as f:
 project_str = ''
 
 for i, e in enumerate(projects):
-    x=''
-    if e['demonstration']!='' and e['code'] !='':
-        x = """{}.\t### [{}]({})\n\n\t<p>{}</p>\n\n\t[code]({})\n\n\t___
-        """.format(i+1,
-                   e['title'],
-                   e['demonstration'],
-                   get_paragraph(e['description']),
-                   e['code'])
-    elif e['demonstration']!='':
-        x = """{}.\t### [{}]({})\n\n\t<p>{}</p>\n\n\t___
-        """.format(i+1,
-                   e['title'],
-                   e['demonstration'],
-                   get_paragraph(e['description']),
-                   )
-    elif e['code']!='':
-        x = """{}.\t### {}\n\n\t<p>{}</p>\n\n\t[code]({})\n\n\t___
-        """.format(i+1,
-                   e['title'],
-                   get_paragraph(e['description']),
-                   e['code'])
+    x = ''
+    if e['demonstration'] != '' and e['code'] != '':
+        x = '''{}.\t### [{}]({})\n\n\t<p>{}</p>\n\n\t[code]({})\n\n\t___'''.format(
+            i+1,
+            e['title'],
+            e['demonstration'],
+            get_paragraph(
+                e['description']),
+            e['code'])
+    elif e['demonstration'] != '':
+        x = '''{}.\t### [{}]({})\n\n\t<p>{}</p>\n\n\t___'''.format(
+            i+1,
+            e['title'],
+            e['demonstration'],
+            get_paragraph(
+                e['description']),
+        )
+    elif e['code'] != '':
+        x = '''{}.\t### {}\n\n\t<p>{}</p>\n\n\t[code]({})\n\n\t___'''.format(
+            i+1,
+            e['title'],
+            get_paragraph(
+                e['description']),
+            e['code'])
     else:
-        x = """{}.\t### {}\n\n\t<p>{}</p>\n\n\t___
-        """.format(i+1,
-                   e['title'],
-                   get_paragraph(e['description'])
-                   )
+        x = '''{}.\t### {}\n\n\t<p>{}</p>\n\n\t___'''.format(
+            i+1,
+            e['title'],
+            get_paragraph(
+                e['description'])
+        )
     project_str += x+'\n'
 # print(project_str)
 
@@ -93,10 +98,10 @@ with open(os.path.join(homedir, 'data/contacts.json')) as f:
 contact_str = ''
 
 for i, e in enumerate(contacts):
-    x = """- **{}** [{}]({})
-    """.format(e['method'],
-               e['disp'],
-               e['url'])
+    x = '''- **{}** [{}]({})'''.format(
+        e['method'],
+        e['disp'],
+        e['url'])
     contact_str += x+'\n'
 # print(contact_str)
 
@@ -105,10 +110,10 @@ with open(os.path.join(homedir, 'data/achievements.json')) as f:
 achievement_str = ''
 
 for i, e in enumerate(achievements):
-    x = """- **{}** [{}]({})
-    """.format(e['achievement'],
-               e['description'],
-               e['link'])
+    x = '''- **{}** [{}]({})'''.format(
+        e['achievement'],
+        e['description'],
+        e['link'])
     achievement_str += x+'\n'
 # print(achievement_str)
 
@@ -117,27 +122,52 @@ with open(os.path.join(homedir, 'data/skills.json')) as f:
 skill_str = ''
 
 for e in skills:
-    x = """- **{}**: {}
-    """.format(e['title'],
-               ', '.join(e['details']),
-               )
+    x = '''- **{}**: {}'''.format(
+        e['title'],
+        ', '.join(e['details']),
+    )
     skill_str += x+'\n'
 # print(skill_str)
 
 with open(os.path.join(homedir, 'data/certificates.json')) as f:
     certificates = json.load(f)
-certification_str = ''
+certification_str = '|||||\n'
+certification_str += '|:----:|:----:|:----:|:----:|\n'
 
-for e in certificates:
-    x = """- [{}]({})
-    """.format(e['title'],
-               e['credential'],
-               )
-    certification_str += x+'\n'
+
+c = 4
+table = []
+row = []
+for i, e in enumerate(certificates):
+    if i % 4 == 0:
+        row.clear()
+    src = e['src']
+    # src = src.replace('static', 'homepage')
+    x = '''[{}]({}) <img src="{}" width=200 height=160 >'''.format(
+        e['title'],
+        e['credential'],
+        src)
+    row.append(x)
+    # print(src)
+
+    if i % 4 == 3:
+        certification_str += "|"+'|'.join(row)+"|"
+        certification_str += '\n'
+
+        row.clear()
+if row:
+    certification_str += "|"+'|'.join(row)+"|"
+    certification_str += '\n'
 # print(certification_str)
 
 
 def generate_markdown():
+    stdout = sys.stdout
+    os.chdir('..')
+
+    f = open('readme.md', 'w',encoding='utf8')
+    sys.stdout = f
+
     print('# RAHUL KUMAR')
     print()
     print('## Summary')
@@ -174,7 +204,9 @@ def generate_markdown():
     print()
     print(contact_str)
     print('\n---\n',)
-
+    
+    sys.stdout=stdout
+    f.close()
 
 generate_markdown()
 

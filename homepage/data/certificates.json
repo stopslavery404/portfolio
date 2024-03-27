@@ -1,137 +1,148 @@
 [
     {
+        "title": "MIT MicroMasters in Statistics and Data Science",
+        "credential": "https://credentials.edx.org/credentials/df346be2b21745ca9ad5195d4f264360/",
+        "src": "homepage/certificates/MITx MicroMasters in Statistics and Data Science.png"
+    },
+
+    {
         "title": "MIT Data Analysis: Statistical Modelling and Computation in Application",
         "credential": "https://courses.edx.org/certificates/bf4ea7cb34a742cea00c770801d1947d",
-        "src": "static/certificates/MITx 6.419x.png"
+        "src": "homepage/certificates/MITx 6.419x.png"
     },
     {
         "title": "MIT Fundamentals of Statistics",
         "credential": "https://courses.edx.org/certificates/3c59035943454549990f2d2de7f49e9f",
-        "src": "/static/certificates/MITx 18.6501x Fundamentals of statistics.png"
+        "src": "homepage/certificates/MITx 18.6501x Fundamentals of statistics.png"
     },
     {
         "title": "MIT Probability - The Science of Uncertainity",
         "credential": "https://courses.edx.org/certificates/45213294fe2649c5a5954e4c42a70f13",
-        "src": "static/certificates/MIT 6.431x.png"
+        "src": "homepage/certificates/MIT 6.431x.png"
     },
     {
         "title": "MIT Machine Learning with Python-From Linear Models to Deep Learning",
         "credential": "https://courses.edx.org/certificates/8cbde197f6874661ab8794d753f9fd7b",
-        "src": "static/certificates/MIT 6.86x.jpg"
+        "src": "homepage/certificates/MIT 6.86x.jpg"
     },
     {
         "title": "CS50 Introduction to Artificial Intelligence with Python",
         "credential": "https://cs50.harvard.edu/certificates/2b1773c1-473d-4a7b-89ae-460d23154126",
-        "src": "static/certificates/CS50 AI.png"
+        "src": "homepage/certificates/CS50 AI.png"
     },
     {
         "title": "IBM Introductioin to AI",
         "credential": "https://www.coursera.org/account/accomplishments/certificate/UA73U5EJC6XJ",
-        "src": "static/certificates/IBM Introductioin to AI.png"
+        "src": "homepage/certificates/IBM Introductioin to AI.png"
     },
     {
         "title": "IBM Python for Data Science, AI & Development",
         "credential": "https://www.coursera.org/account/accomplishments/verify/YSE63GF4U76Q",
-        "src": "static/certificates/IBM Python.PNG"
+        "src": "homepage/certificates/IBM Python.PNG"
     },
     {
         "title": "Udemy Complete 2020 Data Science & Machine Learning Bootcamp",
         "credential": "http://ude.my/UC-d7c52c49-464f-4b63-a9b4-2da5d4c53ff4/",
-        "src": "static/certificates/Machine Learning.jpg"
+        "src": "homepage/certificates/Machine Learning.jpg"
     },
     {
         "title": "C Advanced",
         "credential": "https://www.hackerrank.com/certificates/58d066424a1e",
-        "src": "static/certificates/C Advanced.png"
+        "src": "homepage/certificates/C Advanced.png"
     },
     {
         "title": "C Basic",
         "credential": "https://www.hackerrank.com/certificates/0c61249bbe1d",
-        "src": "static/certificates/C Basic.png"
+        "src": "homepage/certificates/C Basic.png"
     },
     {
         "title": "C Intermediate",
         "credential": "https://www.hackerrank.com/certificates/337182b9dc84",
-        "src": "static/certificates/C Intermediate.png"
+        "src": "homepage/certificates/C Intermediate.png"
     },
     {
         "title": "CSS",
         "credential": "https://www.hackerrank.com/certificates/92d056e955d2",
-        "src": "static/certificates/CSS.png"
+        "src": "homepage/certificates/CSS.png"
     },
     {
         "title": "Java",
         "credential": "https://www.hackerrank.com/certificates/253bacd0f0c0",
-        "src": "static/certificates/Java.png"
+        "src": "homepage/certificates/Java.png"
     },
     {
         "title": "Kaggle Intermediate Machine Learning",
         "credential": "https://www.kaggle.com/learn/certification/pctablet505/intermediate-machine-learning",
-        "src": "static/certificates/Kaggle - Intermediate Machine Learning.png"
+        "src": "homepage/certificates/Kaggle - Intermediate Machine Learning.png"
     },
     {
         "title": "Kaggle Intro to Deep Learning",
         "credential": "https://www.kaggle.com/learn/certification/pctablet505/intro-to-deep-learning",
-        "src": "static/certificates/Kaggle - Intro to Deep Learning.png"
+        "src": "homepage/certificates/Kaggle - Intro to Deep Learning.png"
     },
     {
         "title": "Kaggle Intro to Machine Learning",
         "credential": "https://www.kaggle.com/learn/certification/pctablet505/intro-to-machine-learning",
-        "src": "static/certificates/Kaggle - Intro to Machine Learning.png"
+        "src": "homepage/certificates/Kaggle - Intro to Machine Learning.png"
     },
     {
         "title": "Kaggle Python",
         "credential": "https://www.kaggle.com/learn/certification/pctablet505/python",
-        "src": "static/certificates/Kaggle - Python.png"
+        "src": "homepage/certificates/Kaggle - Python.png"
     },
     {
         "title": "Problem Solving Advanced",
         "credential": "https://www.hackerrank.com/certificates/fc7b9af8aac8",
-        "src": "static/certificates/problem Solving Advanced.png"
+        "src": "homepage/certificates/problem Solving Advanced.png"
     },
     {
         "title": "Problem Solving Basic",
         "credential": "https://www.hackerrank.com/certificates/e3c6568f71c6",
-        "src": "static/certificates/Problem Solving Basic.png"
+        "src": "homepage/certificates/Problem Solving Basic.png"
     },
     {
         "title": "Problem Solving Intermediate",
         "credential": "https://www.hackerrank.com/certificates/f5bcd6aa9355",
-        "src": "static/certificates/Problem Solving Intermediate.png"
+        "src": "homepage/certificates/Problem Solving Intermediate.png"
     },
     {
         "title": "Python Advanced",
         "credential": "https://www.hackerrank.com/certificates/6e9c190da189",
-        "src": "static/certificates/Python Advanced.png"
+        "src": "homepage/certificates/Python Advanced.png"
     },
     {
         "title": "Python Basic",
         "credential": "https://www.hackerrank.com/certificates/93d10484c124",
-        "src": "static/certificates/Python Basic.png"
+        "src": "homepage/certificates/Python Basic.png"
     },
     {
         "title": "Python Intermediate",
         "credential": "https://www.hackerrank.com/certificates/9ecfb2a355a2",
-        "src": "static/certificates/Python Intermediate.png"
+        "src": "homepage/certificates/Python Intermediate.png"
     },
     {
         "title": "SQL Basic",
         "credential": "https://www.hackerrank.com/certificates/2508bf1f2b12",
-        "src": "static/certificates/SQL Basic.png"
+        "src": "homepage/certificates/SQL Basic.png"
     },
     {
         "title": "SQL Intermediate",
         "credential": "https://www.hackerrank.com/certificates/74470a9fe364",
-        "src": "static/certificates/SQL Intermediate.png"
+        "src": "homepage/certificates/SQL Intermediate.png"
     },
     {
         "title": "Udemy Data Structures and Algorithms",
         "credential": "https://www.udemy.com/certificate/UC-37c2faaf-17c4-4089-ab2d-18190a8aa61f/",
-        "src": "static/certificates/DSA.jpg"
+        "src": "homepage/certificates/DSA.jpg"
     },
     {
         "title": "Udemy Python",
         "credential": "https://www.kaggle.com/learn/certification/pctablet505/intermediate-machine-learning",
-        "src": "static/certificates/Python.jpg"
+        "src": "homepage/certificates/Python.jpg"
+    },
+    {
+        "title": "SSCP Cert Prep: 5 Cryptography",
+        "credential": "https://www.linkedin.com/learning/certificates/ce217421b25f5ed3a79b285747e63908813fae27bd68729b6dd7dac38d27a0ad",
+        "src": "homepage/certificates/SSCP Cert Prep- 5 Cryptography.png"
     }
 ]
