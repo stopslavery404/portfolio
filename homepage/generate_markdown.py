@@ -189,6 +189,11 @@ def generate_markdown():
     print()
     print(project_str)
     print('\n---\n',)
+    
+    print('## Skills')
+    print()
+    print(skill_str)
+    print('\n---\n',)
 
     print('## Achievements')
     print()

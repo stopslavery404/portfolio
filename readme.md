@@ -2,7 +2,7 @@
 
 ## Summary
 
-Fullstack AI Engineer with about 2.5 years professional experience and over 4 years of academic experience in the field of artificial intelligence. Major works in computer vision and sensor timeseries data. Excellence in statistical and mathematical understanding of underlying concepts and problems in AI.
+Working with AI problems related to computer vision,and sensor data. The main projects included damaged barcode scanning, face recognition, distraction detection, car crash, and phone drop detection. Developing complete solutions including android app, on-device AI, backend server, and web portals.
 
 ---
 
@@ -225,6 +225,21 @@ Fullstack AI Engineer with about 2.5 years professional experience and over 4 ye
 	<p>A lite app to get quotes of stocks and to perform buy, sell stocks.          Technologies used: Flask, SQL, APIs, JSON, Heroku, GIT.         </p>
 
 	___
+
+
+---
+
+## Skills
+
+- **Programming Languages**: Python, C, C++, Java, Kotlin, JavaScript
+- **Data Analysis and Statistics**: Advanced Data Structures, Algorithms, Probabilistic Modeling, Inference, Estimation, Hypothesis Testing,, Prediction, Data Analysis
+- **Artificial Intelligence**: Search, Optimization, Reinforcement Learning, Bayes-Net, Knowledge-Based Agents
+- **Machine Learning**: Regression, Classification, Clustering, Recommendation, Collaborative Filtering, Non-Parametric Models
+- **Tools and Libraries**: TensorFlow, PyTorch, Keras, Scikit-Learn, Seaborn, Matplotlib, OpenCV
+- **Computer Vision**: Object Detection, Image Segmentation, Geometric Transformations, Synthetic Dataset Geneation, Object Tracking
+- **Android Development**: Java,, Kotlin, ML model porting, Services, Fragments, Rest APIs, Sensor Access, Python Script on Android
+- **Web Development**: JavaScript, Flask, Django, HTML, SAAS, CSS, Bootstrap, SQL, MVC, Git
+- **IOT**: Arduino, Sensors, Wireless Control
 
 
 ---
