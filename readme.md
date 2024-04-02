@@ -284,7 +284,7 @@ Working with AI problems related to computer vision,and sensor data. The main pr
 
 - **Phone** [+91-8709253658](tel:+91-8709253658)
 - **Mail** [work.rahul126@gmail.com](mailto:work.rahul126@gmail.com)
-- **LinkedIn** [@stopslavery404](https://www.linkedin.com/in/stopslavery404)
+- **LinkedIn** [@rahul126](https://www.linkedin.com/in/rahul126)
 - **Website** [https://github.com/stopslavery404/portfolio](https://github.com/stopslavery404/portfolio)
 - **Hackerrank** [@stopslavery404](https://www.hackerrank.com/stopslavery404)
 - **GitHub** [@stopslavery404](https://www.github.com/stopslavery404)
